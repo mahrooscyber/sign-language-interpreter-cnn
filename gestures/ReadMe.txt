@@ -1,0 +1,1 @@
+This folder is reserved for gesture image datasets. Please run `create_gestures.py` to capture and create your own gesture dataset. Follow the on-screen instructions to register gesture labels and collect images before training the CNN model.
