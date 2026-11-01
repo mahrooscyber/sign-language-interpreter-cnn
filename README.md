@@ -344,12 +344,13 @@ Through this project, we explored:
 - Model evaluation and generalization.
 - Real-time computer vision applications.
 
-## Contributors
+## Team Members
 
-**Developed as a Machine Learning academic project.**
+This project was developed collaboratively by:
 
-Salman NS 
-Hashim
+- [@Mahroos Karippathodika](https://github.com/mahrooscyber)
+- [@Salman NS](https://github.com/salmansiyavudeen-crypto)
+- [@Muhammed Hashim KJ](https://github.com/jasijasim-ship-itm)
 
 ## License
 
